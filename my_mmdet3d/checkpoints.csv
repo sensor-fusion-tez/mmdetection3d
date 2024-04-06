@@ -1,0 +1,104 @@
+Collection,Name,Checkpoint
+MinkUNet,minkunet18_w16_torchsparse_8xb2-amp-15e_semantickitti,./configs/minkunet/./configs/minkunet/minkunet_w16_8xb2-15e_semantickitti_20230309_160737-0d8ec25b (1).pth
+MinkUNet,minkunet18_w20_torchsparse_8xb2-amp-15e_semantickitti,./configs/minkunet/./configs/minkunet/minkunet_w20_8xb2-15e_semantickitti_20230309_160718-c3b92e6e.pth
+MinkUNet,minkunet18_w32_torchsparse_8xb2-amp-15e_semantickitti,./configs/minkunet/./configs/minkunet/minkunet_w32_8xb2-15e_semantickitti_20230309_160710-7fa0a6f1.pth
+MinkUNet,minkunet34_w32_minkowski_8xb2-laser-polar-mix-3x_semantickitti,./configs/minkunet/./configs/minkunet/minkunet34_w32_minkowski_8xb2-laser-polar-mix-3x_semantickitti_20230514_202236-839847a8.pth
+MinkUNet,minkunet34_w32_spconv_8xb2-amp-laser-polar-mix-3x_semantickitti,./configs/minkunet/./configs/minkunet/minkunet34_w32_spconv_8xb2-amp-laser-polar-mix-3x_semantickitti_20230512_233152-e0698a0f.pth
+MinkUNet,minkunet34_w32_spconv_8xb2-laser-polar-mix-3x_semantickitti,./configs/minkunet/./configs/minkunet/minkunet34_w32_spconv_8xb2-laser-polar-mix-3x_semantickitti_20230512_233817-72b200d8.pth
+MinkUNet,minkunet34_w32_torchsparse_8xb2-amp-laser-polar-mix-3x_semantickitti,./configs/minkunet/./configs/minkunet/minkunet34_w32_torchsparse_8xb2-amp-laser-polar-mix-3x_semantickitti_20230512_233511-bef6cad0.pth
+MinkUNet,minkunet34_w32_torchsparse_8xb2-laser-polar-mix-3x_semantickitti,./configs/minkunet/./configs/minkunet/minkunet34_w32_torchsparse_8xb2-laser-polar-mix-3x_semantickitti_20230512_233601-2b61b0ab.pth
+MinkUNet,minkunet34v2_w32_torchsparse_8xb2-amp-laser-polar-mix-3x_semantickitti,./configs/minkunet/./configs/minkunet/minkunet34v2_w32_torchsparse_8xb2-amp-laser-polar-mix-3x_semantickitti_20230510_221853-b14a68b3.pth
+Mask R-CNN,mask-rcnn_r50_fpn_1x_nuim,./configs/nuimages/./configs/nuimages/mask_rcnn_r50_fpn_1x_nuim_20201008_195238-e99f5182.pth
+Mask R-CNN,mask-rcnn_r50_fpn_coco-2x_1x_nuim,./configs/nuimages/./configs/nuimages/mask_rcnn_r50_fpn_coco-2x_1x_nuim_20201008_195238-b1742a60.pth
+Mask R-CNN,mask-rcnn_r50_caffe_fpn_coco-3x_1x_nuim,./configs/nuimages/./configs/nuimages/mask_rcnn_r50_caffe_fpn_coco-3x_1x_nuim_20201008_195305-661a992e.pth
+Mask R-CNN,mask-rcnn_r50_caffe_fpn_coco-3x_20e_nuim,./configs/nuimages/./configs/nuimages/mask_rcnn_r50_caffe_fpn_coco-3x_20e_nuim_20201009_125002-5529442c.pth
+Mask R-CNN,mask-rcnn_r101_fpn_1x_nuim,./configs/nuimages/./configs/nuimages/mask_rcnn_r101_fpn_1x_nuim_20201024_134803-65c7623a.pth
+Mask R-CNN,mask-rcnn_x101_32x4d_fpn_1x_nuim,./configs/nuimages/./configs/nuimages/mask_rcnn_x101_32x4d_fpn_1x_nuim_20201024_135741-b699ab37.pth
+Mask R-CNN,cascade-mask-rcnn_r50_fpn_1x_nuim,./configs/nuimages/./configs/nuimages/cascade_mask_rcnn_r50_fpn_1x_nuim_20201008_195342-1147c036.pth
+Mask R-CNN,cascade-mask-rcnn_r50_fpn_coco-20e_1x_nuim,./configs/nuimages/./configs/nuimages/cascade_mask_rcnn_r50_fpn_coco-20e_1x_nuim_20201009_124158-ad0540e3.pth
+Mask R-CNN,cascade-mask-rcnn_r50_fpn_coco-20e_20e_nuim,./configs/nuimages/./configs/nuimages/cascade_mask_rcnn_r50_fpn_coco-20e_20e_nuim_20201009_124951-40963960.pth
+Mask R-CNN,cascade-mask-rcnn_r101_fpn_1x_nuim,./configs/nuimages/./configs/nuimages/cascade_mask_rcnn_r101_fpn_1x_nuim_20201024_134804-45215b1e.pth
+Mask R-CNN,cascade-mask-rcnn_x101_32x4d_fpn_1x_nuim,./configs/nuimages/./configs/nuimages/cascade_mask_rcnn_x101_32x4d_fpn_1x_nuim_20201024_135753-e0e49778.pth
+Mask R-CNN,htc_r50_fpn_coco-20e_1x_nuim,./configs/nuimages/./configs/nuimages/htc_r50_fpn_coco-20e_1x_nuim_20201010_070203-0b53a65e.pth
+Mask R-CNN,htc_r50_fpn_coco-20e_20e_nuim,./configs/nuimages/./configs/nuimages/htc_r50_fpn_coco-20e_20e_nuim_20201008_211415-d6c60a2c.pth
+Mask R-CNN,htc_x101_64x4d_fpn_dconv_c3-c5_coco-20e_16x1_20e_nuim,./configs/nuimages/./configs/nuimages/htc_x101_64x4d_fpn_dconv_c3-c5_coco-20e_16x1_20e_nuim_20201008_211222-0b16ac4b.pth
+PV-RCNN,pv_rcnn_8xb2-80e_kitti-3d-3class,./configs/pv_rcnn/./configs/pv_rcnn/pv_rcnn_8xb2-80e_kitti-3d-3class_20221117_234428-b384d22f.pth
+FCOS3D,fcos3d_r101-caffe-dcn_fpn_head-gn_8xb2-1x_nus-mono3d_finetune,./configs/fcos3d/./configs/fcos3d/fcos3d_r101_caffe_fpn_gn-head_dcn_2x8_1x_nus-mono3d_20210715_235813-4bed5239.pth
+FCOS3D,fcos3d_r101-caffe-dcn_fpn_head-gn_8xb2-1x_nus-mono3d_finetune,./configs/fcos3d/./configs/fcos3d/fcos3d_r101_caffe_fpn_gn-head_dcn_2x8_1x_nus-mono3d_finetune_20210717_095645-8d806dc2.pth
+ImVoteNet,imvotenet_faster_rcnn_r50_fpn_2x4_sunrgbd-3d-10class,./configs/imvotenet/./configs/imvotenet/imvotenet_faster_rcnn_r50_fpn_2x4_sunrgbd-3d-10class_20210819_225618-62eba6ce.pth
+ImVoteNet,imvotenet_stage2_16x8_sunrgbd-3d-10class,./configs/imvotenet/./configs/imvotenet/imvotenet_stage2_16x8_sunrgbd-3d-10class_20210819_192851-1bcd1b97.pth
+Part-A^2,parta2_hv_secfpn_8xb2-cyclic-80e_kitti-3d-3class,./configs/parta2/./configs/parta2/hv_PartA2_secfpn_2x8_cyclic_80e_kitti-3d-3class_20210831_022017-454a5344.pth
+Part-A^2,parta2_hv_secfpn_8xb2-cyclic-80e_kitti-3d-car,./configs/parta2/./configs/parta2/hv_PartA2_secfpn_2x8_cyclic_80e_kitti-3d-car_20210831_022017-cb7ff621.pth
+3DSSD,3dssd_4x4_kitti-3d-car,./configs/3dssd/./configs/3dssd/3dssd_4x4_kitti-3d-car_20210818_203828-b89c8fc4.pth
+MVX-Net,dv_mvx-fpn_second_secfpn_adamw_2x8_80e_kitti-3d-3class,./configs/mvxnet/./configs/mvxnet/mvxnet_fpn_dv_second_secfpn_8xb2-80e_kitti-3d-3class-8963258a.pth
+PAConv,paconv_ssg_8xb8-cosine-150e_s3dis-seg.py,./configs/paconv/./configs/paconv/paconv_ssg_8x8_cosine_150e_s3dis_seg-3d-13class_20210729_200615-2147b2d1.pth
+PAConv,paconv_ssg-cuda_8xb8-cosine-200e_s3dis-seg,./configs/paconv/./configs/paconv/paconv_cuda_ssg_8x8_cosine_200e_s3dis_seg-3d-13class_20210802_171802-e5ea9bb9.pth
+PointPillars,pointpillars_hv_regnet-400mf_secfpn_sbn-all_4x8_2x_nus-3d,./configs/regnet/./configs/regnet/hv_pointpillars_regnet-400mf_secfpn_sbn-all_4x8_2x_nus-3d_20200620_230334-53044f32.pth
+PointPillars,pointpillars_hv_regnet-400mf_fpn_sbn-all_8xb4-2x_nus-3d,./configs/regnet/./configs/regnet/hv_pointpillars_regnet-400mf_fpn_sbn-all_4x8_2x_nus-3d_20200620_230239-c694dce7.pth
+PointPillars,pointpillars_hv_regnet-1.6gf_fpn_sbn-all_8xb4-2x_nus-3d,./configs/regnet/./configs/regnet/hv_pointpillars_regnet-1.6gf_fpn_sbn-all_4x8_2x_nus-3d_20200629_050311-dcd4e090.pth
+PointPillars,pointpillars_hv_regnet-400mf_secfpn_sbn-all_2x8_2x_lyft-3d,./configs/regnet/./configs/regnet/hv_pointpillars_regnet-400mf_secfpn_sbn-all_2x8_2x_lyft-3d_20210524_092151-42513826.pth
+PointPillars,pointpillars_hv_regnet-400mf_fpn_sbn-all_2x8_2x_lyft-3d,./configs/regnet/./configs/regnet/hv_pointpillars_regnet-400mf_fpn_sbn-all_2x8_2x_lyft-3d_20210521_115618-823dcf18.pth
+Cylinder3D,cylinder3d_4xb4-3x_semantickitti,./configs/cylinder3d/./configs/cylinder3d/cylinder3d_4xb4_3x_semantickitti_20230318_191107-822a8c31.pth
+Cylinder3D,cylinder3d_8xb2-laser-polar-mix-3x_semantickitti,./configs/cylinder3d/./configs/cylinder3d/cylinder3d_4xb4_3x_semantickitti_20230318_191107-822a8c31 (1).pth
+FreeAnchor,pointpillars_hv_fpn_sbn-all_8xb4-2x_nus-3d,./configs/free_anchor/./configs/free_anchor/hv_pointpillars_fpn_sbn-all_4x8_2x_nus-3d_20200620_230405-2fa62f3d.pth
+FreeAnchor,pointpillars_hv_regnet-400mf_fpn_sbn-all_8xb4-2x_nus-3d,./configs/free_anchor/./configs/free_anchor/hv_pointpillars_fpn_sbn-all_free-anchor_4x8_2x_nus-3d_20210816_163441-ae0897e7.pth
+FreeAnchor,pointpillars_hv_regnet-400mf_fpn_head-free-anchor_sbn-all_8xb4-2x_nus-3d,./configs/free_anchor/./configs/free_anchor/hv_pointpillars_regnet-400mf_fpn_sbn-all_free-anchor_4x8_2x_nus-3d_20210827_213939-a2dd3fff.pth
+FreeAnchor,hv_pointpillars_regnet-1.6gf_fpn_sbn-all_free-anchor_4x8_2x_nus-3d,./configs/free_anchor/./configs/free_anchor/hv_pointpillars_regnet-1.6gf_fpn_sbn-all_free-anchor_4x8_2x_nus-3d_20210828_025608-bfbd506e.pth
+FreeAnchor,pointpillars_hv_regnet-1.6gf_fpn_head-free-anchor_sbn-all_8xb4-strong-aug-3x_nus-3d,./configs/free_anchor/./configs/free_anchor/hv_pointpillars_regnet-1.6gf_fpn_sbn-all_free-anchor_strong-aug_4x8_3x_nus-3d_20210827_184909-14d2dbd1.pth
+FreeAnchor,pointpillars_hv_regnet-3.2gf_fpn_head-free-anchor_sbn-all_8xb4-2x_nus-3d,./configs/free_anchor/./configs/free_anchor/hv_pointpillars_regnet-3.2gf_fpn_sbn-all_free-anchor_4x8_2x_nus-3d_20210827_181237-e385c35a.pth
+FreeAnchor,pointpillars_hv_regnet-3.2gf_fpn_head-free-anchor_sbn-all_8xb4-strong-aug-3x_nus-3d,./configs/free_anchor/./configs/free_anchor/hv_pointpillars_regnet-3.2gf_fpn_sbn-all_free-anchor_strong-aug_4x8_3x_nus-3d_20210828_030816-06708918.pth
+Group-Free-3D,groupfree3d_head-L6-O256_4xb8_scannet-seg.py,./configs/groupfree3d/./configs/groupfree3d/groupfree3d_8x4_scannet-3d-18class-L6-O256_20210702_145347-3499eb55.pth
+Group-Free-3D,groupfree3d_head-L12-O256_4xb8_scannet-seg.py,./configs/groupfree3d/./configs/groupfree3d/groupfree3d_8x4_scannet-3d-18class-L12-O256_20210702_150907-1c5551ad.pth
+Group-Free-3D,groupfree3d_w2x-head-L12-O256_4xb8_scannet-seg.py,./configs/groupfree3d/./configs/groupfree3d/groupfree3d_8x4_scannet-3d-18class-w2x-L12-O256_20210702_200301-944f0ac0.pth
+Group-Free-3D,groupfree3d_w2x-head-L12-O512_4xb8_scannet-seg.py,./configs/groupfree3d/./configs/groupfree3d/groupfree3d_8x4_scannet-3d-18class-w2x-L12-O512_20210702_220204-187b71c7.pth
+PointRCNN,point-rcnn_8xb2_kitti-3d-3class,./configs/point_rcnn/./configs/point_rcnn/point_rcnn_2x8_kitti-3d-3classes_20211208_151344.pth
+PointPillars,pointpillars_hv_secfpn_8xb6-160e_kitti-3d-car,./configs/pointpillars/./configs/pointpillars/hv_pointpillars_secfpn_6x8_160e_kitti-3d-car_20220331_134606-d42d15ed.pth
+PointPillars,pointpillars_hv_secfpn_8xb6-160e_kitti-3d-3class,./configs/pointpillars/./configs/pointpillars/hv_pointpillars_secfpn_6x8_160e_kitti-3d-3class_20220301_150306-37dc2420.pth
+PointPillars,pointpillars_hv_secfpn_sbn-all_8xb4-2x_nus-3d,./configs/pointpillars/./configs/pointpillars/hv_pointpillars_secfpn_sbn-all_4x8_2x_nus-3d_20210826_225857-f19d00a3.pth
+PointPillars,pointpillars_hv_secfpn_sbn-all_8xb4-amp-2x_nus-3d,./configs/pointpillars/./configs/pointpillars/hv_pointpillars_secfpn_sbn-all_fp16_2x8_2x_nus-3d_20201020_222626-c3f0483e.pth
+PointPillars,pointpillars_hv_fpn_sbn-all_8xb4-2x_nus-3d,./configs/pointpillars/./configs/pointpillars/hv_pointpillars_fpn_sbn-all_4x8_2x_nus-3d_20210826_104936-fca299c1.pth
+PointPillars,pointpillars_hv_fpn_sbn-all_8xb4-amp-2x_nus-3d,./configs/pointpillars/./configs/pointpillars/hv_pointpillars_fpn_sbn-all_fp16_2x8_2x_nus-3d_20201021_120719-269f9dd6.pth
+PointPillars,pointpillars_hv_secfpn_sbn-all_8xb2-2x_lyft-3d,./configs/pointpillars/./configs/pointpillars/hv_pointpillars_secfpn_sbn-all_2x8_2x_lyft-3d_20210829_100455-82b81c39.pth
+PointPillars,pointpillars_hv_fpn_sbn-all_8xb2-2x_lyft-3d,./configs/pointpillars/./configs/pointpillars/hv_pointpillars_fpn_sbn-all_2x8_2x_lyft-3d_20210822_095429-0b3d6196.pth
+PointPillars,pointpillars_hv_secfpn_sbn_2x16_2x_waymoD5-3d-car,./configs/pointpillars/./configs/pointpillars/hv_pointpillars_secfpn_sbn_2x16_2x_waymoD5-3d-car_20200901_204315-302fc3e7.pth
+PointPillars,pointpillars_hv_secfpn_sbn_2x16_2x_waymoD5-3d-3class,./configs/pointpillars/./configs/pointpillars/hv_pointpillars_secfpn_sbn_2x16_2x_waymoD5-3d-3class_20200831_204144-d1a706b1.pth
+PointNet++,pointnet2_ssg_2xb16-cosine-200e_scannet-seg-xyz-only,./configs/pointnet2/./configs/pointnet2/pointnet2_ssg_xyz-only_16x2_cosine_200e_scannet_seg-3d-20class_20210514_143628-4e341a48.pth
+PointNet++,pointnet2_ssg_2xb16-cosine-200e_scannet-seg,./configs/pointnet2/./configs/pointnet2/pointnet2_ssg_16x2_cosine_200e_scannet_seg-3d-20class_20210514_143644-ee73704a.pth
+PointNet++,pointnet2_msg_2xb16-cosine-250e_scannet-seg-xyz-only,./configs/pointnet2/./configs/pointnet2/pointnet2_msg_xyz-only_16x2_cosine_250e_scannet_seg-3d-20class_20210514_143838-b4a3cf89.pth
+PointNet++,pointnet2_msg_2xb16-cosine-250e_scannet-seg,./configs/pointnet2/./configs/pointnet2/pointnet2_msg_16x2_cosine_250e_scannet_seg-3d-20class_20210514_144009-24477ab1.pth
+PointNet++,pointnet2_ssg_2xb16-cosine-50e_s3dis-seg,./configs/pointnet2/./configs/pointnet2/pointnet2_ssg_16x2_cosine_50e_s3dis_seg-3d-13class_20210514_144205-995d0119.pth
+PointNet++,pointnet2_msg_2xb16-cosine-80e_s3dis-seg,./configs/pointnet2/./configs/pointnet2/pointnet2_msg_16x2_cosine_80e_s3dis_seg-3d-13class_20210514_144307-b2059817.pth
+SSN,hv_ssn_secfpn_sbn-all_16xb2-2x_nus-3d,./configs/ssn/./configs/ssn/hv_ssn_secfpn_sbn-all_2x16_2x_nus-3d_20210830_101351-51915986.pth
+SSN,hv_ssn_regnet-400mf_secfpn_sbn-all_16xb2-2x_nus-3d,./configs/ssn/./configs/ssn/hv_ssn_regnet-400mf_secfpn_sbn-all_2x16_2x_nus-3d_20210829_210615-361e5e04.pth
+SSN,hv_ssn_secfpn_sbn-all_16xb2-2x_lyft-3d,./configs/ssn/./configs/ssn/hv_ssn_secfpn_sbn-all_2x16_2x_lyft-3d_20210822_134731-46841b41.pth
+SSN,hv_ssn_regnet-400mf_secfpn_sbn-all_16xb1-2x_lyft-3d,./configs/ssn/./configs/ssn/hv_ssn_regnet-400mf_secfpn_sbn-all_1x16_2x_lyft-3d_20210829_122825-d93475a1.pth
+Dynamic Voxelization,dv_second_secfpn_6x8_80e_kitti-3d-car,./configs/dynamic_voxelization/./configs/dynamic_voxelization/dv_second_secfpn_6x8_80e_kitti-3d-car_20200620_235228-ac2c1c0c.pth
+Dynamic Voxelization,dv_second_secfpn_2x8_cosine_80e_kitti-3d-3class,./configs/dynamic_voxelization/./configs/dynamic_voxelization/dv_second_secfpn_2x8_cosine_80e_kitti-3d-3class_20210831_054106-e742d163.pth
+Dynamic Voxelization,dv_pointpillars_secfpn_6x8_160e_kitti-3d-car,./configs/dynamic_voxelization/./configs/dynamic_voxelization/dv_pointpillars_secfpn_6x8_160e_kitti-3d-car_20200620_230844-ee7b75c9.pth
+CenterPoint,centerpoint_voxel01_second_secfpn_head-circlenms_8xb4-cyclic-20e_nus-3d,./configs/centerpoint/./configs/centerpoint/centerpoint_01voxel_second_secfpn_circlenms_4x8_cyclic_20e_nus_20220810_030004-9061688e.pth
+CenterPoint,centerpoint_voxel01_second_secfpn_head-dcn-circlenms_8xb4-cyclic-20e_nus-3d,./configs/centerpoint/./configs/centerpoint/centerpoint_01voxel_second_secfpn_dcn_circlenms_4x8_cyclic_20e_nus_20220810_052355-a6928835.pth
+CenterPoint,centerpoint_voxel0075_second_secfpn_head-circlenms_8xb4-cyclic-20e_nus-3d,./configs/centerpoint/./configs/centerpoint/centerpoint_0075voxel_second_secfpn_circlenms_4x8_cyclic_20e_nus_20220810_011659-04cb3a3b.pth
+CenterPoint,centerpoint_voxel0075_second_secfpn_head-dcn-circlenms_8xb4-cyclic-20e_nus-3d,./configs/centerpoint/./configs/centerpoint/centerpoint_0075voxel_second_secfpn_dcn_circlenms_4x8_cyclic_20e_nus_20220810_025930-657f67e0.pth
+CenterPoint,centerpoint_pillar02_second_secfpn_head-circlenms_8xb4-cyclic-20e_nus-3d,./configs/centerpoint/./configs/centerpoint/centerpoint_02pillar_second_secfpn_circlenms_4x8_cyclic_20e_nus_20220811_031844-191a3822.pth
+CenterPoint,centerpoint_pillar02_second_secfpn_head-dcn_8xb4-cyclic-20e_nus-3d,./configs/centerpoint/./configs/centerpoint/centerpoint_02pillar_second_secfpn_dcn_4x8_cyclic_20e_nus_20220811_045458-808e69ad.pth
+SECOND,second_hv_secfpn_8xb6-80e_kitti-3d-car,./configs/second/./configs/second/second_hv_secfpn_8xb6-80e_kitti-3d-car-75d9305e.pth
+SECOND,second_hv_secfpn_8xb6-80e_kitti-3d-3class,./configs/second/./configs/second/second_hv_secfpn_8xb6-80e_kitti-3d-3class-b086d0a3.pth
+SECOND,second_hv_secfpn_8xb6-amp-80e_kitti-3d-car,./configs/second/./configs/second/hv_second_secfpn_fp16_6x8_80e_kitti-3d-car_20200924_211301-1f5ad833.pth
+SECOND,second_hv_secfpn_8xb6-amp-80e_kitti-3d-3class,./configs/second/./configs/second/hv_second_secfpn_fp16_6x8_80e_kitti-3d-3class_20200925_110059-05f67bdf.pth
+SMOKE,smoke_dla34_dlaneck_gn-all_4xb8-6x_kitti-mono3d,./configs/smoke/./configs/smoke/smoke_dla34_pytorch_dlaneck_gn-all_8x4_6x_kitti-mono3d_20210929_015553-d46d9bb0.pth
+PGD,pgd_r101-caffe_fpn_head-gn_4xb3-4x_kitti-mono3d,./configs/pgd/./configs/pgd/pgd_r101_caffe_fpn_gn-head_3x4_4x_kitti-mono3d_20211022_102608-8a97533b.pth
+PGD,pgd_r101-caffe_fpn_head-gn_16xb2-1x_nus-mono3d,./configs/pgd/./configs/pgd/pgd_r101_caffe_fpn_gn-head_2x16_1x_nus-mono3d_20211116_195350-f4b5eec2.pth
+PGD,pgd_r101-caffe_fpn_head-gn_16xb2-1x_nus-mono3d_finetune,./configs/pgd/./configs/pgd/pgd_r101_caffe_fpn_gn-head_2x16_1x_nus-mono3d_finetune_20211118_093245-fd419681.pth
+PGD,pgd_r101-caffe_fpn_head-gn_16xb2-2x_nus-mono3d,./configs/pgd/./configs/pgd/pgd_r101_caffe_fpn_gn-head_2x16_2x_nus-mono3d_20211112_125314-cb677266.pth
+PGD,pgd_r101-caffe_fpn_head-gn_16xb2-2x_nus-mono3d_finetune,./configs/pgd/./configs/pgd/pgd_r101_caffe_fpn_gn-head_2x16_2x_nus-mono3d_finetune_20211114_162135-5ec7c1cd.pth
+FCAF3D,fcaf3d_2xb8_scannet-3d-18class,./configs/fcaf3d/./configs/fcaf3d/fcaf3d_8x2_scannet-3d-18class_20220805_084956.pth
+FCAF3D,fcaf3d_2xb8_sunrgbd-3d-10class,./configs/fcaf3d/./configs/fcaf3d/fcaf3d_8x2_sunrgbd-3d-10class_20220805_165017.pth
+FCAF3D,fcaf3d_2xb8_s3dis-3d-5class,./configs/fcaf3d/./configs/fcaf3d/fcaf3d_8x2_s3dis-3d-5class_20220805_121957.pth
+VoteNet,votenet_8xb16_sunrgbd-3d.py,./configs/votenet/./configs/votenet/votenet_16x8_sunrgbd-3d-10class_20210820_162823-bf11f014.pth
+VoteNet,votenet_8xb8_scannet-3d.py,./configs/votenet/./configs/votenet/votenet_8x8_scannet-3d-18class_20210823_234503-cf8134fa.pth
+SPVCNN,spvcnn_w16_8xb2-amp-15e_semantickitti,./configs/spvcnn/./configs/spvcnn/spvcnn_w16_8xb2-15e_semantickitti_20230321_011645-a2734d85.pth
+SPVCNN,spvcnn_w20_8xb2-amp-15e_semantickitti,./configs/spvcnn/./configs/spvcnn/spvcnn_w20_8xb2-15e_semantickitti_20230321_011649-519e7eff.pth
+SPVCNN,spvcnn_w32_8xb2-amp-15e_semantickitti,./configs/spvcnn/./configs/spvcnn/spvcnn_w32_8xb2-15e_semantickitti_20230308_113324-f7c0c5b4.pth
+SPVCNN,spvcnn_w32_8xb2-amp-laser-polar-mix-3x_semantickitti,./configs/spvcnn/./configs/spvcnn/spvcnn_w32_8xb2-amp-laser-polar-mix-3x_semantickitti_20230425_125908-d68a68b7.pth
+ImVoxelNet,imvoxelnet_kitti-3d-car,./configs/imvoxelnet/./configs/imvoxelnet/imvoxelnet_4x8_kitti-3d-car_20210830_003014-3d0ffdf4.pth
+H3DNet,h3dnet_3x8_scannet-3d-18class,./configs/h3dnet/./configs/h3dnet/h3dnet_3x8_scannet-3d-18class_20210824_003149-414bd304.pth
