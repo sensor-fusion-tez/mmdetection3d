@@ -16,6 +16,7 @@ from mmdet3d.structures.ops import box_np_ops
 kitti_categories = ('Pedestrian', 'Cyclist', 'Car', 'Van', 'Truck',
                     'Person_sitting', 'Tram', 'Misc')
 
+
 waymo_categories = ('Car', 'Pedestrian', 'Cyclist')
 
 nus_categories = ('car', 'truck', 'trailer', 'bus', 'construction_vehicle',
@@ -397,7 +398,7 @@ def generate_record(ann_rec: dict, x1: float, y1: float, x2: float, y2: float,
             - bbox_3d_isvalid (bool): whether the box is valid
     """
 
-    if dataset == 'nuscenes':
+    if dataset == 'nuscenes' or dataset == 'kitti-nus':
         cat_name = ann_rec['category_name']
         if cat_name not in NuScenesNameMapping:
             return None
